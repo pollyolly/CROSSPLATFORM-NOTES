@@ -17,3 +17,7 @@
 [ELECTRON](https://www.electronjs.org/)
 
 [IONIC](https://ionicframework.com/)
+
+### RUSH
+
+[TAURI](https://tauri.app/)
