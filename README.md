@@ -6,9 +6,11 @@
 
 [LIST PHP TO DESKTOP](https://stackoverflow.com/questions/9046675/convert-a-php-script-into-a-stand-alone-windows-executable/9046775#9046775)
 
-### JS/TS/DART
+### DART
 
 [FLUTTER](https://flutter.dev/)
+
+### JS/TS
 
 [QUASAR](https://quasar.dev/)
 
