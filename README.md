@@ -18,6 +18,8 @@
 
 [IONIC](https://ionicframework.com/)
 
+[REACT NATIVE FOR WINDOWS/MACOST](https://microsoft.github.io/react-native-windows/resources)
+
 ### RUSH
 
 [TAURI](https://tauri.app/)
